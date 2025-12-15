@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         title: "Aboreto",
-        header: "Alumni Sans Pinstripe",
+        header: "Cutive Mono",
         body: "Zen Kaku Gothic Antique", //source sans pro is the original
         code: "IBM Plex Mono",
       },
