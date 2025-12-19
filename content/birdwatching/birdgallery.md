@@ -1,5 +1,5 @@
 ```img-gallery
-path: /birdwatching
+path: /birdwatching/images
 type: horizontal
 height: 240
 gutter: 8
