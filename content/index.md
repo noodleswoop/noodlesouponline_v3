@@ -1,7 +1,7 @@
 [**digital garden**](https://maggieappleton.com/garden-history) */ ˈdɪdʒ ɪ tl ˈgɑr dn /* (noun): a public, evolving collection of notes, ideas, and resources that grows over time
 
 <p align="center">
-	<img src="soup.png" alt="absolutely scrumptious" width="20%">
+	<img src="https://www.nicepng.com/png/detail/112-1129662_spicy-chasiu-ramen-ramen-transparent-png.png" alt="absolutely scrumptious" width="20%">
 </p>
 Hi, I'm Rachel, and this is my little corner of the internet. My interests are various and sundry. This is where I talk about them. Organization is questionable. Notes are haphazard and numerous. Feel free to poke around. Thanks for visiting!
 
