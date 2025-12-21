@@ -6,6 +6,6 @@
 
 Hi, I'm Rachel, and this is my little corner of the internet. My interests are various and sundry. This is where I talk about them. Organization is questionable. Notes are haphazard and numerous. Feel free to poke around. Thanks for visiting!
 
-<p align="center"> <a href="/about">about</a> || <a href="/contact">contact</a> || <a href="/tags">tag index</a></p>
+<p align="center"> <a href="/about">about me</a> || <a href="/contact">contact</a> || <a href="/tags">tag index</a></p>
 
 
