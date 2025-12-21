@@ -5,7 +5,7 @@ tags:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kuR5QJ8gdUU?si=ybJdZ-9v93oAo1vw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **travel capsule wardrobe**
-pack for a week max
+<p>pack for a week max</p>
 * one top per day 
 * one sweater for every other day (climate depending(
 * one pair of jeans/skirt/shorts for every couple days 
