@@ -23,7 +23,9 @@ sudo apt update && sudo apt install mpv libaacs0
 
 if you want to undo what you just did:
 ```
-sudo apt remove mpv ffmpeg sudo rm -v /etc/apt/sources.list.d/fruit.list /etc/apt/trusted.gpg.d/fruit.gpg sudo apt update
+sudo apt remove mpv ffmpeg 
+sudo rm -v /etc/apt/sources.list.d/fruit.list /etc/apt/trusted.gpg.d/fruit.gpg 
+sudo apt update
 ```
 
 i have yet to actually attempt to configure mpv, but that's another adventure for another day.
