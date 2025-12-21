@@ -1,5 +1,4 @@
 [**digital garden**](https://maggieappleton.com/garden-history) */ ˈdɪdʒ ɪ tl ˈgɑr dn /* (noun): a public, evolving collection of notes, ideas, and resources that grows over time
-
 <p align="center">
 	<img src="ramen-1.gif" alt="absolutely scrumptious" width="20%">
 </p>
