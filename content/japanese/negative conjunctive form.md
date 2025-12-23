@@ -1,8 +1,8 @@
 ---
 tags:
   - japanese
-  - 文甫
   - 活用
+  - 文法
 ---
 -い becomes -くなくて
 

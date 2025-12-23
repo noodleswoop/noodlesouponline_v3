@@ -2,8 +2,8 @@
 tags:
   - japanese
   - 助詞
-  - 文甫
   - の
+  - 文法
 ---
 "the stopping/quitting of a verb"
 

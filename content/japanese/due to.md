@@ -1,7 +1,7 @@
 ---
 tags:
   - japanese
-  - 文甫
+  - 文法
 ---
 (noun)のせいで: due to (noun)
 negative connotation! blaming! only negative reasons.
