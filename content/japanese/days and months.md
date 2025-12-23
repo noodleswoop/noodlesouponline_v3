@@ -3,6 +3,7 @@ tags:
   - japanese
   - 単語
 ---
+[click here for the names of time intervals](/japanese/time)
 ## days of the week
 
 | kanji | hiragana | english   |
