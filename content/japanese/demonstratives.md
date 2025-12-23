@@ -4,7 +4,7 @@ tags:
 ---
 aka [こそあど言葉](https://www.tofugu.com/japanese-grammar/kosoado/)
 
-**things**
+## things
 
 -れ: describe where something is in relation to where you are
 
@@ -24,7 +24,7 @@ aka [こそあど言葉](https://www.tofugu.com/japanese-grammar/kosoado/)
 | あの  | that [noun] over there |
 | どの  | which? [noun]          |
 
-**people**
+## people
 
 -いつ: used to refer to someone in a gruff manner (gender-neutral)
 
@@ -48,7 +48,7 @@ aka [こそあど言葉](https://www.tofugu.com/japanese-grammar/kosoado/)
 | あなた | you                                               |
 | どなた | who? (polite; can sound feminine)                 |
 
-**places**
+## places
 
 -こ: used to describe places in relation to where you are.
 
@@ -59,7 +59,7 @@ aka [こそあど言葉](https://www.tofugu.com/japanese-grammar/kosoado/)
 | あそこ | over there |
 | どこ  | where?     |
 
-**directions**
+## directions
 
 -ちら: used to politely refer to a direction or a place. can also be used to refer to an object or a person.
 
@@ -79,7 +79,7 @@ aka [こそあど言葉](https://www.tofugu.com/japanese-grammar/kosoado/)
 | あっち | over there (casual) |
 | どっち | where? (casual)     |
 
-**manner**
+## manner
 
 -んな: used before nouns and describe the manner of noun that follows. also common to use these for objects that aren't physically present.
 - note: can combine with particles such as の or に to make things like こんなの (a thing like this) or こんなに (this much).

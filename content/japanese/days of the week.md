@@ -4,7 +4,6 @@ tags:
   - 単語
 ---
 
-
 | kanji | hiragana | english   |
 | ----- | -------- | --------- |
 | 日曜日   | にちようび    | Sunday    |

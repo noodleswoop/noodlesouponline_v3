@@ -3,7 +3,6 @@ tags:
   - japanese
   - 単語
 ---
-
 時間の長さ (じかんの　ながさ)
 
 | unit    | conversational                               | written            |
@@ -16,7 +15,7 @@ tags:
 | months  | ＿かげつ<br>＿か月<br>＿つき (up to 4)<br>＿月 (up to 4) | ＿かげつかん<br>＿か月間<br> |
 | years   | ＿ねん<br>＿年                                    | ＿ねんかん<br>＿年間       |
 
-**days**
+## days
 
 | kanji | hiragana | english                  |
 | ----- | -------- | ------------------------ |
@@ -26,7 +25,8 @@ tags:
 | 明日    | あした      | tomorrow                 |
 | 明後日   | あさって     | the day after tomorrow   |
 | 毎日    | まいにち     | every day                |
-**weeks**
+
+## weeks
 
 | kanji | hiragana | english              |
 | ----- | -------- | -------------------- |
@@ -37,7 +37,7 @@ tags:
 | 再来週   | さらいしゅう   | the week after next  |
 | 毎週    | まいしゅう    | every week           |
 
-**months**
+## months
 
 | kanji | hiragana | english               |
 | ----- | -------- | --------------------- |
@@ -48,7 +48,7 @@ tags:
 | 再来月   | さらいげつ    | the month after next  |
 | 毎月    | まいつき     | every month           |
 
-**years**
+## years
 
 | kanji    | hiragana     | english                                  |
 | -------- | ------------ | ---------------------------------------- |
