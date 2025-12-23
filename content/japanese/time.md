@@ -3,6 +3,8 @@ tags:
   - japanese
   - 単語
 ---
+[click here for the names of days of the week and months of the year](/japanese/days-and-months)
+
 時間の長さ (じかんの　ながさ)
 
 | unit    | conversational                               | written            |
@@ -14,6 +16,29 @@ tags:
 | weeks   | ＿しゅうかん<br>＿週間                                | --                 |
 | months  | ＿かげつ<br>＿か月<br>＿つき (up to 4)<br>＿月 (up to 4) | ＿かげつかん<br>＿か月間<br> |
 | years   | ＿ねん<br>＿年                                    | ＿ねんかん<br>＿年間       |
+
+## hours
+
+| kanji | hiragana | english        |
+| ----- | -------- | -------------- |
+| 分     | ぶん       | minute         |
+| 時     | じ        | hour           |
+
+## times of day
+
+| kanji   | hiragana  | english                                                        |
+| ------- | --------- | -------------------------------------------------------------- |
+| 午前      | ごぜん       | A.M. (written)                                                 |
+| 午後      | ごご        | P.M. (written)                                                 |
+| 日の出     | ひので       | sunrise                                                        |
+| 日の入り    | ひのいり      | sunset                                                         |
+| 朝       | あさ        | morning (sunrise to about 10 AM)                               |
+| 正午      | しょうご      | noon                                                           |
+| お昼<br>昼 | おひる<br>ひる | afternoon/lunch time (noon to 2-3 PM)                          |
+| 夕方      | ゆうがた      | early evening (winter: 4 PM to 6 PM)<br>(summer: 4 PM to 7 PM) |
+| 夜       | よる        | night (6-7 PM to midnight)                                     |
+| 夜中      | よなか       | midnight; midnight to 3 AM                                     |
+| 真夜中     | まよなか      | "witch hours"; 3 AM until 5 or 6 AM                            |
 
 ## days
 
