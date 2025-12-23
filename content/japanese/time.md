@@ -42,14 +42,14 @@ tags:
 
 ## days
 
-| kanji | hiragana | english                  |
-| ----- | -------- | ------------------------ |
-| 一昨日   | おととい     | the day before yesterday |
-| 昨日    | きのう      | yesterday                |
-| 今日    | きょう      | today                    |
-| 明日    | あした      | tomorrow                 |
-| 明後日   | あさって     | the day after tomorrow   |
-| 毎日    | まいにち     | every day                |
+| kanji                           | hiragana<br>(written) | hiragana<br>(colloquial) | english                  |
+| ------------------------------- | --------------------- | ------------------------ | ------------------------ |
+| 一昨日                             | いっさくじつ                | おととい                     | the day before yesterday |
+| 昨日                              | さくじつ                  | きのう                      | yesterday                |
+| 本日 (written)<br>今日 (colloquial) | ほんじつ                  | きょう                      | today                    |
+| 明日                              | あす                    | あした                      | tomorrow                 |
+| 明後日                             | みょうごにち                | あさって                     | the day after tomorrow   |
+| 毎日                              | ー                     | まいにち                     | every day                |
 
 ## weeks
 
@@ -75,11 +75,11 @@ tags:
 
 ## years
 
-| kanji    | hiragana     | english                                  |
-| -------- | ------------ | ---------------------------------------- |
-| 一昨年      | おととし         | the year before last                     |
-| 昨年<br>去年 | さくねん<br>きょねん | last year (formal)<br>last year (casual) |
-| 今年       | ことし          | this year                                |
-| 来年       | らいねん         | next year                                |
-| 再来年      | さらいねん        | the year after next                      |
-| 毎年       | まいとし         | every year                               |
+| kanji                           | hiragana<br>(written) | hiragana<br>(colloquial) | english                                  |
+| ------------------------------- | --------------------- | ------------------------ | ---------------------------------------- |
+| 一昨年                             | いっさくねん                | おととし                     | the year before last                     |
+| 昨年 (written)<br>去年 (colloquial) | さくねん                  | きょねん                     | last year (formal)<br>last year (casual) |
+| 今年                              | こんねん                  | ことし                      | this year                                |
+| 来年                              | -                     | らいねん                     | next year                                |
+| 再来年                             | -                     | さらいねん                    | the year after next                      |
+| 毎年                              | -                     | まいとし                     | every year                               |
