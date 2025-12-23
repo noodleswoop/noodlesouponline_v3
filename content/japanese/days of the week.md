@@ -14,4 +14,3 @@ tags:
 | 木曜日   | もくようび    | Thursday  |
 | 金曜日   | きにょうび    | Friday    |
 | 土曜日   | どようび     | Saturday  |
-al;skdjf

@@ -14,6 +14,7 @@ aka [こそあど言葉](https://www.tofugu.com/japanese-grammar/kosoado/)
 | それ  | that one            |
 | あれ  | that one over there |
 | どれ  | which one?          |
+
 -の: used before a noun and describe where the noun is in relation to where you are
 
 | の   | meaning                |
@@ -37,6 +38,7 @@ aka [こそあど言葉](https://www.tofugu.com/japanese-grammar/kosoado/)
 | そやつ | that guy (old-fashioned)            |
 | あやつ | that guy over there (old-fashioned) |
 | どやつ | which guy? (old-fashioned)          |
+
 -なた: In classical Japanese, these were all used to refer to the person you were talking to (equivalent to "you" in English). each has different levels of formality
 
 | -なた | meaning                                           |
@@ -47,6 +49,7 @@ aka [こそあど言葉](https://www.tofugu.com/japanese-grammar/kosoado/)
 | どなた | who? (polite; can sound feminine)                 |
 
 **places**
+
 -こ: used to describe places in relation to where you are.
 
 | -こ  | meaning    |
@@ -55,6 +58,7 @@ aka [こそあど言葉](https://www.tofugu.com/japanese-grammar/kosoado/)
 | そこ  | there      |
 | あそこ | over there |
 | どこ  | where?     |
+
 **directions**
 
 -ちら: used to politely refer to a direction or a place. can also be used to refer to an object or a person.
@@ -65,6 +69,7 @@ aka [こそあど言葉](https://www.tofugu.com/japanese-grammar/kosoado/)
 | そちら | there (polite)      |
 | あちら | over there (polite) |
 | どちら | where? (polite)     |
+
 -っち: casual version of the -ちら set. can also be used to refer to an object or person.
 
 | -っち | meaning             |
@@ -73,6 +78,7 @@ aka [こそあど言葉](https://www.tofugu.com/japanese-grammar/kosoado/)
 | そっち | there (casual)      |
 | あっち | over there (casual) |
 | どっち | where? (casual)     |
+
 **manner**
 
 -んな: used before nouns and describe the manner of noun that follows. also common to use these for objects that aren't physically present.
@@ -84,6 +90,7 @@ aka [こそあど言葉](https://www.tofugu.com/japanese-grammar/kosoado/)
 | そんな | that kind of [noun]                            |
 | あんな | that kind of [noun] over there                 |
 | どんな | what kind of [noun] is it/what is [noun] like? |
+
 -う: come before verbs (or verb phrases) and adjectives. describe the way the verb is done or what the adjective is like
 
 | -う  | meaning                        |
