@@ -83,3 +83,14 @@ tags:
 | 来年                              | -                     | らいねん                     | next year                                |
 | 再来年                             | -                     | さらいねん                    | the year after next                      |
 | 毎年                              | -                     | まいとし                     | every year                               |
+
+## frequency
+
+| kanji<br>(written)                     | kanji<br>(colloquial) | hiragana<br>(written)                         | hiragana<br>(colloquial) | english               |
+| -------------------------------------- | --------------------- | --------------------------------------------- | ------------------------ | --------------------- |
+| 一ヶ月に一度                                 | 一ヶ月に一回                | いっかげつにいちど                                     | いっかげつにいっかい               | once a month          |
+| 一二回 (written)<br>一度か二度 (fancy)         | 一回か二回                 | いちどかにど (written)<br>いちにかい (fancy)             | いっかいかにかい                 | once or twice         |
+| 一ヶ月に一度か二度 (written)<br>一ヶ月に一二回 (fancy) | 一ヶ月に一回か二回             | いっかげつにいちどかにど (written)<br>いっかげつにいちにかい (fancy) | いっかげつにいっかいかにかい           | once or twice a month |
+| 一時間位一度                                 | 一時間位一回                | いちじかんにいちど                                     | いちじかんにいっかい               | once an hour          |
+| 一分位二度                                  | 一分位二回                 | いっぷんににど                                       | いっぷんににかい                 | twice a minute        |
+| 一分位三度                                  | 一分位三回                 | いっぷんにさんど                                      | いっぷんにさんかい                | three times a minute  |

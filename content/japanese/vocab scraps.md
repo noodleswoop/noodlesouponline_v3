@@ -20,4 +20,14 @@ ex: to make this soup tasty
 **prefixes for negation**    
 ふ: simple negation    
 ひ: strong negation    
-む: none    
+む: none   
+
+**It depends on the X.**      
+X によって違う。  
+ie, case by case basis
+- ex: It depends on the person.
+- 人によって違う。
+
+than: より
+ex: earlier than America     
+アメリカより早く

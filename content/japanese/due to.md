@@ -3,10 +3,11 @@ tags:
   - japanese
   - 文法
 ---
-(noun)のせいで: due to (noun)    
-negative connotation! blaming! only negative reasons.    
-ex: due to my boss    
-上司のせいで
+because of (noun)
 
-(noun)のおかげで    
-positive connotation! thanks to, owing to
+| reason                          | definition | example                             |
+| ------------------------------- | ---------- | ----------------------------------- |
+| positive                        | nounのおかげで  | thanks to my parents     <br>親のおかげで |
+| neutral<br>(ie a factual thing) | nounで      | busy with work      <br>仕事で忙しい      |
+| negative                        | nounのせいで   | due to the typhoon      <br>台風のせいで  |
+
