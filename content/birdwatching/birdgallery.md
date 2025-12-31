@@ -1,9 +1,3 @@
-```img-gallery
-path: /birdwatching/images
-type: horizontal
-height: 240
-gutter: 8
-radius: 8
-sortby: name
-sort: des
-```
+![[/birdwatching/images/20230905.jpg]]
+![[/birdwatching/images/20240917.jpg]]
+![[/birdwatching/images/20240921_1.jpg]]
