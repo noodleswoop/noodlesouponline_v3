@@ -1,7 +1,7 @@
 ---
 tags:
-  - japanese
   - 文法
+  - 日本語
 ---
 for nouns, you can generally just add "じゃない" or "でわない" to the end.
 

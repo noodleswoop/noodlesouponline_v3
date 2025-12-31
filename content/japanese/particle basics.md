@@ -1,7 +1,7 @@
 ---
 tags:
-  - japanese
   - 助詞
+  - 日本語
 ---
 chart from [here](https://www.japanesepod101.com/blog/2020/08/07/japanese-word-order/). very useful resource for keeping the basics straight.
 

@@ -1,7 +1,7 @@
 ---
 tags:
   - 単語
-  - japanese
+  - 日本語
 ---
 note: no "-y" phrases exist in japanese!
 

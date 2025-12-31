@@ -1,6 +1,6 @@
 ---
 tags:
-  - japanese
+  - 日本語
 ---
 aka [こそあど言葉](https://www.tofugu.com/japanese-grammar/kosoado/)
 

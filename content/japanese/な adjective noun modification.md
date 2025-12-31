@@ -1,7 +1,7 @@
 ---
 tags:
-  - japanese
   - 文法
+  - 日本語
 ---
 note: the な comes out ONLY in modifying a noun and ONLY in present positive form.
 

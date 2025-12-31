@@ -1,8 +1,8 @@
 ---
 tags:
-  - japanese
   - 文法
   - 活用
+  - 日本語
 ---
 
 ## to become: -い adjective conjugations

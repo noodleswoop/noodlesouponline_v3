@@ -1,7 +1,7 @@
 ---
 tags:
-  - japanese
   - 単語
+  - 日本語
 ---
 [click here for the names of time intervals](/japanese/time)
 ## days of the week

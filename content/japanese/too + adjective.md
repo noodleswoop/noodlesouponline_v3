@@ -1,7 +1,7 @@
 ---
 tags:
-  - japanese
   - 文法
+  - 日本語
 ---
 too + adjective: adjective + すぎます
 

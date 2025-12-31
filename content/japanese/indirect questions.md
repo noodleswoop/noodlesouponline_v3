@@ -1,6 +1,6 @@
 ---
 tags:
-  - japanese
+  - 日本語
 ---
 indirect questions: どの＿＿（な）のか: which(subject)(verb)
 な: connector with a NOUN. cannot be used with verbs

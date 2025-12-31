@@ -1,7 +1,7 @@
 ---
 tags:
-  - japanese
   - 単語
+  - 日本語
 ---
 [click here for the names of days of the week and months of the year](/japanese/days-and-months)
 

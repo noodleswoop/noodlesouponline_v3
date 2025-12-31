@@ -1,7 +1,7 @@
 ---
 tags:
-  - japanese
   - 文法
+  - 日本語
 ---
 ex: cold -> coldly    
 寒い -> 寒く

@@ -1,7 +1,7 @@
 ---
 tags:
-  - japanese
   - 文法
+  - 日本語
 ---
 to seem (adjective)/to look (adjective): adjective + そうだ
 

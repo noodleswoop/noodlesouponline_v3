@@ -1,6 +1,6 @@
 ---
 tags:
-  - japanese
+  - 日本語
 ---
 **hiragana + katakana table (w/ bonus stroke order)**
 

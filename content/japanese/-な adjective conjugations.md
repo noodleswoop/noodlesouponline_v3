@@ -1,8 +1,8 @@
 ---
 tags:
-  - japanese
   - 文法
   - 活用
+  - 日本語
 ---
 they are exactly the same as noun conjugations!
 

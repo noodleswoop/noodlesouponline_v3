@@ -1,9 +1,8 @@
 ---
 tags:
-  - japanese
   - 助詞
-  - の
   - 文法
+  - 日本語
 ---
 "the stopping/quitting of a verb"
 

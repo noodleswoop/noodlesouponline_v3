@@ -1,7 +1,7 @@
 ---
 tags:
-  - japanese
   - 単語
+  - 日本語
 ---
 病気 (びょうき): disease, serious illness
 

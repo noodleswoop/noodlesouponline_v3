@@ -1,10 +1,8 @@
 ---
 tags:
-  - japanese
   - 助詞
-  - て
-  - し
   - 文法
+  - 日本語
 ---
 (noun) て (noun): て functions as a connective particle. like "and" for nouns.
 for -い adjectives, the い becomes く

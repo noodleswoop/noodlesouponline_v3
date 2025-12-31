@@ -1,7 +1,7 @@
 ---
 tags:
-  - japanese
   - 単語
+  - 日本語
 ---
 a little    
 written: すこし（少し)    
