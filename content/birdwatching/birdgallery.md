@@ -1,6 +1,6 @@
 ---
 cssclasses:
-  - image-grid
+  - .image-grid
 ---
 
 ![[/birdwatching/images/20230905.jpg]]
