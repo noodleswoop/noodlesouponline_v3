@@ -7,8 +7,6 @@ I graduated from Texas A&M University in 2021 with a Bachelor of Science in Indu
 
 In my spare time, I enjoy reading, exploring my neighborhood, and watching terrible movies with friends. 
 
-I can be reached by email at rbeaulac98(at)gmail.com.
-
 **socials** 
 - [vsco](https://vsco.co/soupenjoyer)
 - [linkedin](https://linkedin.com/in/rachel-beaulac) 
