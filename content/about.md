@@ -9,5 +9,5 @@ In my spare time, I enjoy reading, exploring my neighborhood, and watching terri
 
 **socials** 
 - [vsco](https://vsco.co/soupenjoyer)
-- [are.na](https://are.na/rachel-b-lrry9ex2uai)
+- [are.na](https://are.na/rachel-b)
 - [linkedin](https://linkedin.com/in/rachel-beaulac) 
