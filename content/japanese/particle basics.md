@@ -25,3 +25,5 @@ note: objective case is defined as: "the objective case in English grammar refer
 
 **binding particles:** comes after a particle or noun to add extra information, such as adding emphasis or expressing that two things are the same.
 	は、も、鹿、こそ、etc
+
+note: when 「も」or 「は」is added to 「が」or 「を」, the 「が」or 「を」become less visible.
